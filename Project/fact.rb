@@ -26,11 +26,11 @@ end
 puts "Sayı #{n}"
 puts "Faktöriyel sonucu #{fakt}"
 
+#-----Bir diğer kullanım-----
+
 # frozen_string_literal: true
 
 # fact.rb
-
-#-----------------------------------------------------
 
 # n*fakt---n-1*fakt'---n-2*fakt''---...---1*fakt'''':'
 
