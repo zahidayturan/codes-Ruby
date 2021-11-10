@@ -1,3 +1,3 @@
 # ProjectRuby
 
-exam
+Work for homework...
