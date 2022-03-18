@@ -4,6 +4,7 @@ puts days.size
 puts days.length
 puts days.first
 puts days.last
+puts days
 puts days.min
 puts days.max
 days << son
